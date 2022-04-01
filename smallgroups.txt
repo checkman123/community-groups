@@ -1,0 +1,392 @@
+Week 1
+House 1: Sam(host) |  Dean | Emma | Josh | Lewis, Lulu  
+House 2: Moon(host) |  Sally | Riley | Kim  
+House 3: Aruni, Ezreal(host) |  Echo | Man  
+House 4: Yun, Lux(host) |  Zhao | Rook  
+House 5: Ashe, Zack(host) |  Aatrox | Blitz  
+House 6: Mord(host) |  Khan | Poll | Moth  
+House 7: Astro(host) |  Nomad | Silverhand  
+Week 2
+House 1: Sam(host) |  Moon | Sally | Riley | Kim  
+House 2: Dean(host) |  Emma | Josh | Echo  
+House 3: Lewis, Lulu(host) |  Aruni, Ezreal  
+House 4: Man(host) |  Yun, Lux | Zhao  
+House 5: Rook(host) |  Ashe, Zack | Aatrox  
+House 6: Blitz(host) |  Mord | Khan | Poll  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 3
+House 1: Sam(host) |  Aruni, Ezreal | Echo | Man  
+House 2: Dean(host) |  Lewis, Lulu | Moon  
+House 3: Emma(host) |  Josh | Sally | Riley  
+House 4: Kim(host) |  Yun, Lux | Zhao  
+House 5: Rook(host) |  Blitz | Mord | Khan  
+House 6: Ashe, Zack(host) |  Poll | Moth  
+House 7: Aatrox(host) |  Astro | Nomad | Silverhand  
+Week 4
+House 1: Sam(host) |  Yun, Lux | Zhao | Rook  
+House 2: Dean(host) |  Sally | Riley | Kim  
+House 3: Emma(host) |  Lewis, Lulu | Moon  
+House 4: Josh(host) |  Aruni, Ezreal | Echo  
+House 5: Man(host) |  Ashe, Zack | Aatrox  
+House 6: Blitz(host) |  Moth | Astro | Nomad  
+House 7: Mord(host) |  Silverhand | Khan | Poll  
+Week 5
+House 1: Sam(host) |  Ashe, Zack | Aatrox | Blitz  
+House 2: Dean(host) |  Aruni, Ezreal | Man  
+House 3: Emma(host) |  Kim | Echo | Zhao  
+House 4: Josh(host) |  Lewis, Lulu | Moon  
+House 5: Sally(host) |  Riley | Yun, Lux  
+House 6: Rook(host) |  Poll | Moth | Astro  
+House 7: Mord(host) |  Nomad | Khan | Silverhand  
+Week 6
+House 1: Sam(host) |  Mord | Khan | Poll | Moth  
+House 2: Dean(host) |  Yun, Lux | Zhao  
+House 3: Emma(host) |  Aruni, Ezreal | Man  
+House 4: Josh(host) |  Sally | Riley | Kim  
+House 5: Lewis, Lulu(host) |  Moon | Echo  
+House 6: Rook(host) |  Nomad | Silverhand | Aatrox  
+House 7: Ashe, Zack(host) |  Astro | Blitz  
+Week 7
+House 1: Sam(host) |  Astro | Nomad | Silverhand | Dean  
+House 2: Emma(host) |  Yun, Lux | Rook  
+House 3: Josh(host) |  Man | Zhao | Aatrox  
+House 4: Lewis, Lulu(host) |  Sally | Riley  
+House 5: Moon(host) |  Aruni, Ezreal | Echo  
+House 6: Kim(host) |  Ashe, Zack | Blitz  
+House 7: Mord(host) |  Khan | Poll | Moth  
+Week 8
+House 1: Dean(host) |  Sam | Rook | Aatrox | Blitz  
+House 2: Emma(host) |  Ashe, Zack | Mord  
+House 3: Josh(host) |  Yun, Lux | Khan  
+House 4: Lewis, Lulu(host) |  Kim | Man  
+House 5: Moon(host) |  Zhao | Poll | Moth  
+House 6: Sally(host) |  Aruni, Ezreal | Echo  
+House 7: Riley(host) |  Astro | Nomad | Silverhand  
+Week 9
+House 1: Dean(host) |  Ashe, Zack | Mord | Khan  
+House 2: Emma(host) |  Sam | Aatrox | Blitz  
+House 3: Josh(host) |  Rook | Poll | Moth  
+House 4: Lewis, Lulu(host) |  Yun, Lux  
+House 5: Moon(host) |  Man | Astro | Nomad  
+House 6: Sally(host) |  Kim | Zhao | Silverhand  
+House 7: Riley(host) |  Aruni, Ezreal | Echo  
+Week 10
+House 1: Dean(host) |  Poll | Moth | Astro | Nomad  
+House 2: Emma(host) |  Khan | Silverhand | Sam  
+House 3: Josh(host) |  Ashe, Zack | Blitz  
+House 4: Lewis, Lulu(host) |  Zhao | Rook  
+House 5: Moon(host) |  Yun, Lux | Aatrox  
+House 6: Sally(host) |  Man | Mord | Riley  
+House 7: Kim(host) |  Aruni, Ezreal | Echo  
+Week 11
+House 1: Dean(host) |  Silverhand | Sam | Emma | Josh  
+House 2: Lewis, Lulu(host) |  Ashe, Zack  
+House 3: Moon(host) |  Rook | Blitz | Mord  
+House 4: Sally(host) |  Aatrox | Khan | Poll  
+House 5: Riley(host) |  Kim | Man | Zhao  
+House 6: Aruni, Ezreal(host) |  Yun, Lux  
+House 7: Echo(host) |  Moth | Astro | Nomad  
+Week 12
+House 1: Emma(host) |  Dean | Poll | Moth | Astro  
+House 2: Josh(host) |  Sam | Mord | Nomad  
+House 3: Lewis, Lulu(host) |  Aatrox | Blitz  
+House 4: Moon(host) |  Ashe, Zack | Khan  
+House 5: Sally(host) |  Rook | Riley | Kim  
+House 6: Aruni, Ezreal(host) |  Zhao | Silverhand  
+House 7: Echo(host) |  Man | Yun, Lux  
+Week 13
+House 1: Emma(host) |  Nomad | Sam | Dean | Josh  
+House 2: Lewis, Lulu(host) |  Mord | Khan  
+House 3: Moon(host) |  Silverhand | Sally | Riley  
+House 4: Kim(host) |  Man | Rook | Aatrox  
+House 5: Aruni, Ezreal(host) |  Ashe, Zack  
+House 6: Echo(host) |  Zhao | Blitz | Poll  
+House 7: Yun, Lux(host) |  Moth | Astro  
+Week 14
+House 1: Josh(host) |  Dean | Emma | Astro | Silverhand  
+House 2: Lewis, Lulu(host) |  Sam | Poll  
+House 3: Moon(host) |  Sally | Riley | Kim  
+House 4: Aruni, Ezreal(host) |  Rook | Aatrox  
+House 5: Echo(host) |  Ashe, Zack | Mord  
+House 6: Man(host) |  Blitz | Khan | Moth  
+House 7: Yun, Lux(host) |  Nomad | Zhao  
+Week 15
+House 1: Lewis, Lulu(host) |  Dean | Emma | Josh  
+House 2: Moon(host) |  Sam | Sally | Riley  
+House 3: Kim(host) |  Mord | Khan | Poll  
+House 4: Aruni, Ezreal(host) |  Blitz | Moth  
+House 5: Echo(host) |  Rook | Aatrox | Silverhand  
+House 6: Man(host) |  Astro | Nomad | Zhao  
+House 7: Yun, Lux(host) |  Ashe, Zack  
+Week 16
+House 1: Lewis, Lulu(host) |  Moth | Astro | Nomad  
+House 2: Moon(host) |  Dean | Emma | Josh  
+House 3: Sally(host) |  Sam | Ashe, Zack  
+House 4: Riley(host) |  Yun, Lux | Rook  
+House 5: Kim(host) |  Silverhand | Aruni, Ezreal  
+House 6: Echo(host) |  Khan | Man | Zhao  
+House 7: Aatrox(host) |  Blitz | Mord | Poll  
+Week 17
+House 1: Lewis, Lulu(host) |  Silverhand | Sam | Dean  
+House 2: Moon(host) |  Emma | Josh | Sally  
+House 3: Riley(host) |  Ashe, Zack | Aatrox  
+House 4: Kim(host) |  Moth | Astro | Nomad  
+House 5: Aruni, Ezreal(host) |  Mord | Khan  
+House 6: Echo(host) |  Man | Yun, Lux  
+House 7: Zhao(host) |  Rook | Blitz | Poll  
+Week 18
+House 1: Moon(host) |  Lewis, Lulu | Sam | Dean  
+House 2: Sally(host) |  Emma | Josh | Blitz  
+House 3: Riley(host) |  Mord | Khan | Poll  
+House 4: Kim(host) |  Aruni, Ezreal | Echo  
+House 5: Man(host) |  Rook | Silverhand | Zhao  
+House 6: Yun, Lux(host) |  Aatrox | Moth  
+House 7: Ashe, Zack(host) |  Nomad | Astro  
+Week 19
+House 1: Sally(host) |  Dean | Lewis, Lulu | Moon  
+House 2: Riley(host) |  Sam | Emma | Josh  
+House 3: Kim(host) |  Aruni, Ezreal | Echo  
+House 4: Man(host) |  Mord | Poll | Zhao  
+House 5: Yun, Lux(host) |  Blitz | Khan  
+House 6: Rook(host) |  Ashe, Zack | Aatrox  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 20
+House 1: Sally(host) |  Moth | Astro | Nomad | Sam  
+House 2: Riley(host) |  Dean | Lewis, Lulu  
+House 3: Kim(host) |  Emma | Josh | Moon  
+House 4: Aruni, Ezreal(host) |  Poll | Echo  
+House 5: Man(host) |  Yun, Lux | Zhao  
+House 6: Rook(host) |  Ashe, Zack | Aatrox  
+House 7: Blitz(host) |  Silverhand | Mord | Khan  
+Week 21
+House 1: Riley(host) |  Moon | Sally | Blitz | Moth  
+House 2: Kim(host) |  Sam | Dean | Emma  
+House 3: Aruni, Ezreal(host) |  Josh | Astro  
+House 4: Echo(host) |  Lewis, Lulu | Man  
+House 5: Yun, Lux(host) |  Mord | Poll  
+House 6: Zhao(host) |  Ashe, Zack | Aatrox  
+House 7: Rook(host) |  Khan | Nomad | Silverhand  
+Week 22
+House 1: Kim(host) |  Lewis, Lulu | Sally | Riley  
+House 2: Aruni, Ezreal(host) |  Sam | Dean  
+House 3: Echo(host) |  Emma | Josh | Moon  
+House 4: Man(host) |  Yun, Lux | Zhao  
+House 5: Rook(host) |  Ashe, Zack | Aatrox  
+House 6: Blitz(host) |  Mord | Khan | Poll  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 23
+House 1: Aruni, Ezreal(host) |  Emma | Moon | Sally  
+House 2: Echo(host) |  Sam | Dean | Riley  
+House 3: Man(host) |  Josh | Lewis, Lulu  
+House 4: Yun, Lux(host) |  Kim | Silverhand  
+House 5: Zhao(host) |  Mord | Khan | Moth  
+House 6: Rook(host) |  Ashe, Zack | Aatrox  
+House 7: Blitz(host) |  Poll | Astro | Nomad  
+Week 24
+House 1: Aruni, Ezreal(host) |  Lewis, Lulu | Riley  
+House 2: Echo(host) |  Sally | Kim | Sam  
+House 3: Man(host) |  Dean | Emma | Moon  
+House 4: Yun, Lux(host) |  Josh | Zhao  
+House 5: Rook(host) |  Ashe, Zack | Aatrox  
+House 6: Blitz(host) |  Mord | Khan | Poll  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 25
+House 1: Aruni, Ezreal(host) |  Kim | Nomad | Sam  
+House 2: Echo(host) |  Dean | Emma | Josh  
+House 3: Man(host) |  Sally | Riley | Moon  
+House 4: Yun, Lux(host) |  Lewis, Lulu  
+House 5: Zhao(host) |  Astro | Silverhand | Rook  
+House 6: Ashe, Zack(host) |  Mord | Khan  
+House 7: Aatrox(host) |  Moth | Blitz | Poll  
+Week 26
+House 1: Echo(host) |  Aruni, Ezreal | Sam | Dean  
+House 2: Man(host) |  Kim | Emma | Josh  
+House 3: Yun, Lux(host) |  Moon | Sally  
+House 4: Zhao(host) |  Lewis, Lulu | Riley  
+House 5: Rook(host) |  Ashe, Zack | Aatrox  
+House 6: Blitz(host) |  Mord | Khan | Poll  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 27
+House 1: Man(host) |  Sam | Aruni, Ezreal | Echo  
+House 2: Yun, Lux(host) |  Dean | Emma  
+House 3: Zhao(host) |  Josh | Moon | Sally  
+House 4: Rook(host) |  Lewis, Lulu | Riley  
+House 5: Ashe, Zack(host) |  Kim | Silverhand  
+House 6: Aatrox(host) |  Khan | Blitz | Mord  
+House 7: Poll(host) |  Moth | Astro | Nomad  
+Week 28
+House 1: Yun, Lux(host) |  Sam | Riley | Aruni, Ezreal  
+House 2: Zhao(host) |  Dean | Emma | Kim  
+House 3: Rook(host) |  Josh | Moon | Sally  
+House 4: Ashe, Zack(host) |  Lewis, Lulu  
+House 5: Aatrox(host) |  Echo | Man | Blitz  
+House 6: Mord(host) |  Astro | Khan | Poll  
+House 7: Moth(host) |  Nomad | Silverhand  
+Week 29
+House 1: Yun, Lux(host) |  Echo | Man | Sam  
+House 2: Zhao(host) |  Aruni, Ezreal | Nomad  
+House 3: Rook(host) |  Dean | Emma | Kim  
+House 4: Ashe, Zack(host) |  Josh | Moon  
+House 5: Aatrox(host) |  Lewis, Lulu | Sally  
+House 6: Blitz(host) |  Riley | Mord | Khan  
+House 7: Poll(host) |  Silverhand | Moth | Astro  
+Week 30
+House 1: Zhao(host) |  Sam | Echo | Man | Yun, Lux  
+House 2: Rook(host) |  Aruni, Ezreal | Dean  
+House 3: Ashe, Zack(host) |  Emma | Sally  
+House 4: Aatrox(host) |  Josh | Moon | Riley  
+House 5: Blitz(host) |  Lewis, Lulu | Kim  
+House 6: Mord(host) |  Khan | Poll | Moth  
+House 7: Astro(host) |  Nomad | Silverhand  
+Week 31
+House 1: Rook(host) |  Sam | Echo | Man | Yun, Lux  
+House 2: Ashe, Zack(host) |  Dean | Riley  
+House 3: Aatrox(host) |  Emma | Kim | Zhao  
+House 4: Blitz(host) |  Josh | Moon | Sally  
+House 5: Mord(host) |  Lewis, Lulu | Khan  
+House 6: Poll(host) |  Aruni, Ezreal | Moth  
+House 7: Astro(host) |  Nomad | Silverhand  
+Week 32
+House 1: Rook(host) |  Zhao | Sam | Dean | Emma  
+House 2: Ashe, Zack(host) |  Aruni, Ezreal  
+House 3: Aatrox(host) |  Yun, Lux | Josh  
+House 4: Blitz(host) |  Echo | Man | Moon  
+House 5: Mord(host) |  Sally | Riley | Kim  
+House 6: Khan(host) |  Lewis, Lulu | Poll  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 33
+House 1: Ashe, Zack(host) |  Sam | Echo | Man  
+House 2: Aatrox(host) |  Dean | Aruni, Ezreal  
+House 3: Blitz(host) |  Emma | Yun, Lux  
+House 4: Mord(host) |  Josh | Moon | Zhao  
+House 5: Khan(host) |  Sally | Riley | Kim  
+House 6: Poll(host) |  Lewis, Lulu | Rook  
+House 7: Moth(host) |  Astro | Nomad | Silverhand  
+Week 34
+House 1: Ashe, Zack(host) |  Yun, Lux | Zhao  
+House 2: Aatrox(host) |  Sam | Rook | Dean  
+House 3: Blitz(host) |  Aruni, Ezreal | Emma  
+House 4: Mord(host) |  Echo | Man | Josh  
+House 5: Khan(host) |  Moon | Moth | Astro  
+House 6: Poll(host) |  Sally | Riley | Kim  
+House 7: Nomad(host) |  Lewis, Lulu | Silverhand  
+Week 35
+House 1: Ashe, Zack(host) |  Rook | Sam | Dean  
+House 2: Aatrox(host) |  Emma | Josh | Moon  
+House 3: Blitz(host) |  Zhao | Lewis, Lulu  
+House 4: Mord(host) |  Aruni, Ezreal | Sally  
+House 5: Khan(host) |  Echo | Man | Nomad  
+House 6: Poll(host) |  Yun, Lux | Riley  
+House 7: Moth(host) |  Kim | Astro | Silverhand  
+Week 36
+House 1: Aatrox(host) |  Ashe, Zack | Sam | Dean  
+House 2: Blitz(host) |  Rook | Emma | Josh  
+House 3: Mord(host) |  Yun, Lux | Moon  
+House 4: Khan(host) |  Aruni, Ezreal | Zhao  
+House 5: Poll(host) |  Echo | Man | Sally  
+House 6: Moth(host) |  Lewis, Lulu | Riley  
+House 7: Astro(host) |  Kim | Nomad | Silverhand  
+Week 37
+House 1: Blitz(host) |  Sam | Dean | Aatrox | Emma  
+House 2: Mord(host) |  Rook | Ashe, Zack  
+House 3: Khan(host) |  Josh | Yun, Lux  
+House 4: Poll(host) |  Moon | Zhao | Sally  
+House 5: Moth(host) |  Aruni, Ezreal | Echo  
+House 6: Astro(host) |  Lewis, Lulu | Riley  
+House 7: Nomad(host) |  Kim | Man | Silverhand  
+Week 38
+House 1: Blitz(host) |  Ashe, Zack | Sam | Dean  
+House 2: Mord(host) |  Emma | Aatrox | Josh  
+House 3: Khan(host) |  Rook | Silverhand | Moon  
+House 4: Poll(host) |  Lewis, Lulu | Sally  
+House 5: Moth(host) |  Man | Yun, Lux  
+House 6: Astro(host) |  Aruni, Ezreal | Echo  
+House 7: Nomad(host) |  Riley | Zhao | Kim  
+Week 39
+House 1: Mord(host) |  Sam | Dean | Blitz | Emma  
+House 2: Khan(host) |  Ashe, Zack | Aatrox  
+House 3: Poll(host) |  Josh | Lewis, Lulu  
+House 4: Moth(host) |  Moon | Sally | Zhao  
+House 5: Astro(host) |  Man | Yun, Lux  
+House 6: Nomad(host) |  Aruni, Ezreal | Echo  
+House 7: Silverhand(host) |  Riley | Kim | Rook  
+Week 40
+House 1: Khan(host) |  Sam | Dean | Emma | Blitz  
+House 2: Poll(host) |  Ashe, Zack | Aatrox  
+House 3: Moth(host) |  Josh | Rook | Mord  
+House 4: Astro(host) |  Moon | Sally | Zhao  
+House 5: Nomad(host) |  Yun, Lux | Riley  
+House 6: Silverhand(host) |  Lewis, Lulu | Echo  
+House 7: Kim(host) |  Aruni, Ezreal | Man  
+Week 41
+House 1: Khan(host) |  Mord | Sam | Dean | Emma  
+House 2: Poll(host) |  Blitz | Josh | Moon  
+House 3: Moth(host) |  Ashe, Zack | Aatrox  
+House 4: Astro(host) |  Rook | Lewis, Lulu  
+House 5: Nomad(host) |  Sally | Riley | Kim  
+House 6: Silverhand(host) |  Aruni, Ezreal | Man  
+House 7: Echo(host) |  Yun, Lux | Zhao  
+Week 42
+House 1: Poll(host) |  Sam | Dean | Emma | Mord  
+House 2: Moth(host) |  Blitz | Khan | Josh  
+House 3: Astro(host) |  Ashe, Zack | Aatrox  
+House 4: Nomad(host) |  Moon | Rook | Sally  
+House 5: Silverhand(host) |  Yun, Lux | Zhao  
+House 6: Lewis, Lulu(host) |  Riley | Kim  
+House 7: Aruni, Ezreal(host) |  Echo | Man  
+Week 43
+House 1: Poll(host) |  Khan | Sam | Dean | Emma  
+House 2: Moth(host) |  Josh | Lewis, Lulu  
+House 3: Astro(host) |  Blitz | Mord | Moon  
+House 4: Nomad(host) |  Ashe, Zack | Aatrox  
+House 5: Silverhand(host) |  Sally | Riley | Kim  
+House 6: Aruni, Ezreal(host) |  Echo | Man  
+House 7: Yun, Lux(host) |  Zhao | Rook  
+Week 44
+House 1: Moth(host) |  Sam | Dean | Emma | Poll  
+House 2: Astro(host) |  Josh | Khan | Moon  
+House 3: Nomad(host) |  Blitz | Mord | Sally  
+House 4: Silverhand(host) |  Ashe, Zack | Aatrox  
+House 5: Lewis, Lulu(host) |  Riley | Kim  
+House 6: Aruni, Ezreal(host) |  Echo | Man  
+House 7: Yun, Lux(host) |  Zhao | Rook  
+Week 45
+House 1: Astro(host) |  Sam | Dean | Emma | Poll  
+House 2: Nomad(host) |  Josh | Khan | Moth  
+House 3: Silverhand(host) |  Moon | Blitz | Mord  
+House 4: Lewis, Lulu(host) |  Sally | Riley  
+House 5: Kim(host) |  Aruni, Ezreal | Echo  
+House 6: Man(host) |  Yun, Lux | Zhao  
+House 7: Rook(host) |  Ashe, Zack | Aatrox  
+Week 46
+House 1: Astro(host) |  Moth | Sam | Dean | Emma  
+House 2: Nomad(host) |  Poll | Josh | Moon  
+House 3: Silverhand(host) |  Khan | Lewis, Lulu  
+House 4: Sally(host) |  Riley | Kim | Echo  
+House 5: Aruni, Ezreal(host) |  Man | Zhao  
+House 6: Yun, Lux(host) |  Rook | Aatrox  
+House 7: Ashe, Zack(host) |  Blitz | Mord  
+Week 47
+House 1: Nomad(host) |  Sam | Dean | Emma | Astro  
+House 2: Silverhand(host) |  Josh | Poll | Moth  
+House 3: Lewis, Lulu(host) |  Moon | Sally  
+House 4: Riley(host) |  Kim | Aruni, Ezreal  
+House 5: Echo(host) |  Man | Yun, Lux  
+House 6: Zhao(host) |  Rook | Ashe, Zack  
+House 7: Aatrox(host) |  Blitz | Mord | Khan  
+Week 48
+House 1: Silverhand(host) |  Sam | Dean | Emma | Astro  
+House 2: Josh(host) |  Lewis, Lulu | Moon  
+House 3: Sally(host) |  Riley | Kim | Echo  
+House 4: Aruni, Ezreal(host) |  Man | Zhao  
+House 5: Yun, Lux(host) |  Rook | Aatrox  
+House 6: Ashe, Zack(host) |  Blitz | Mord  
+House 7: Khan(host) |  Poll | Moth | Nomad  
+Week 49
+House 1: Silverhand(host) |  Nomad | Sam | Dean | Emma  
+House 2: Josh(host) |  Lewis, Lulu | Moon  
+House 3: Sally(host) |  Riley | Kim | Echo  
+House 4: Aruni, Ezreal(host) |  Man | Zhao  
+House 5: Yun, Lux(host) |  Rook | Aatrox  
+House 6: Ashe, Zack(host) |  Blitz | Mord  
+House 7: Khan(host) |  Poll | Moth | Astro  
