@@ -1,5 +1,4 @@
 # Creating Community Small Groups
-A work by: Levi Dahlberg and Sanyapoom Sirijirakarn (Safe)
 
 Being in community with others is a fundamental necessity to building faith and sharing in the good news together. For we know from Matthew 18:20 "For where two or three gather in my name, there am I with them." To help create these communities and in turn a larger connected community at churches, the Community Groups program was developed. This program will be able to take in a list of names (inlcuding married couples) and then create a schedule that will allow for each person to visit every other person's house. In doing so, each person will then know every other person who is part of the Small Group Community at the church.
 
